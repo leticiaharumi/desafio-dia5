@@ -3,7 +3,7 @@ body{
     padding: 0;
     font-family: 'nunito', sans-serif;
     min-height: 100vh;
-    background: url("./gradient.jpg");
+    background: url("/img/gradient.jpg");
 
 
 }
@@ -23,7 +23,7 @@ body{
     margin: 0;
     font-weight: 900;
     letter-spacing: 20px;
-    background: url(bg.jpg) center no-repeat;
+    background: url(/img/bg.jpg) center no-repeat;
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
 }
